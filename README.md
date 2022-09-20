@@ -15,10 +15,6 @@ Tenho 24 anos, moro em Salto do Itararé/PR e sou apaixonada por programação! 
 
 ---
 </br>
-<div display="inline-block">
- <p align="left">📚 Tenho estudado React;</p>
- <p align="left">☕🎮 só acordo com café.</p>
-</div>
 <br>
 <div align="center">
   <a href="https://github.com/vanessamainara">
