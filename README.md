@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Vanessa Mainara}!</strong>
 <br>
-Tenho 24 anos, moro em Salto do Itararé/PR, Sou apaixonada por programação, mesmo sendo iniciante nesse  universo, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤.
+Tenho 25 anos, moro em Salto do Itararé/PR, Sou apaixonada por programação, mesmo sendo iniciante nesse  universo, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤.
 
 ----
 
